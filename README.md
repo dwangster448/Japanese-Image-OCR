@@ -16,6 +16,7 @@ Some information needed to run this program as of Version 1:
 6. In addition to the database, live server functionality has been left also due to inefficiency, currently working on provide more efficient frontend and backend compatibility.
 
 Note: Text must be legible:
+
 Good sample/target image:
 
 <img width="46" alt="image" src="https://github.com/user-attachments/assets/e2fd22d9-e943-4947-a2c6-4b682a55f0b5">
