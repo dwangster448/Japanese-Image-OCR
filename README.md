@@ -8,12 +8,16 @@ Some information needed to run this program as of Version 1:
 3. Currently and all functionality only works via python3 commands. Currently working on CLEAR button providing intended functionality
 4. Python3 shell commands for program
 
-	a. Usage: **python3 jp_ocr_v1.py [filename].html** pastes the transcripted text into your 			destination file
+	a. Usage: **python3 jp_ocr_v1.py [filename].html**
+	
+ 	pastes the transcripted text into your destination file
 
-	b. Usage: **python3 jp_ocr_v1.py [filename].html clear** first clears all pasted content on 		your clipboard then proceeds to fill the copied text content
+	b. Usage: **python3 jp_ocr_v1.py [filename].html clear**
 
-5. Database storage as of V1 is very inefficient, so it has been left out of the code, currently working on a better way to retrieve search history.
-6. In addition to the database, live server functionality has been left also due to inefficiency, currently working on provide more efficient frontend and backend compatibility.
+	first clears all pasted content on your clipboard then proceeds to fill the copied text content
+
+6. Database storage as of V1 is very inefficient, so it has been left out of the code, currently working on a better way to retrieve search history.
+7. In addition to the database, live server functionality has been left also due to inefficiency, currently working on provide more efficient frontend and backend compatibility.
 
 For MacOS Users: There is a way to automate the task via Shortcut/Automator but I had yet to produce consistent shell scripting. More info TBD.
 
