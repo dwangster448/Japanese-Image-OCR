@@ -15,6 +15,8 @@ Some information needed to run this program as of Version 1:
 5. Database storage as of V1 is very inefficient, so it has been left out of the code, currently working on a better way to retrieve search history.
 6. In addition to the database, live server functionality has been left also due to inefficiency, currently working on provide more efficient frontend and backend compatibility.
 
+For MacOS Users: There is a way to automate the task via Shortcut/Automator but I had yet to produce consistent shell scripting. More info TBD.
+
 Note: Text must be legible:
 
 Good sample/target image:
